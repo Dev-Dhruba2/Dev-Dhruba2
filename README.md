@@ -1,3 +1,4 @@
+![logo](https://github.com/Dev-Dhruba2/Dev-Dhruba2/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Dhruba Bhattacharyya</h1>
 <h3 align="center">A passionate full stack web developer and AIML enthusiast from Kolkata, west bengal</h3>
 
