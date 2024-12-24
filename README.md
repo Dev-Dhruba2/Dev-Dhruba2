@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-dhruba2&label=Profile%20views&color=0e75b6&style=flat" alt="dev-dhruba2" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-dhruba2" alt="dev-dhruba2" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/dhruba1307" target="blank"><img src="https://img.shields.io/twitter/follow/dhruba1307?logo=twitter&style=for-the-badge" alt="dhruba1307" /></a> </p>
 
 - 🔭 I’m currently working on an AI based government schemes suggesting application [Advisor](https://schemes-ai.vercel.app/)
@@ -15,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on WINTER OF CODE 4.0 **BRIEFBOX**
 
-- 💬 Ask me about **react, JavaScript, typescript**
+- 💬 Ask me about **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **dhrubabhattacharyya13@gmail.com**
 
