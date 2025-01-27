@@ -12,9 +12,8 @@
 
 - 🔭 I’m currently working on an AI based government schemes suggesting application [Smart Scheme Advisor](https://schemes-ai.vercel.app/)
 
-- 🌱 I’m currently learning **Nextjs, AIML**
+- 🌱 I’m currently learning **Nextjs, DevOps**
 
-- 👯 I’m looking to collaborate on WINTER OF CODE 4.0 **BRIEFBOX**
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
